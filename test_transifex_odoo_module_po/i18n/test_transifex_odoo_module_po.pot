@@ -1,0 +1,112 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* test_transifex_odoo_module_po
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 9.0alpha1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-08 07:13+0000\n"
+"PO-Revision-Date: 2015-09-08 07:13+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: test_transifex_odoo_module_po
+#: model:ir.model.fields,field_description:test_transifex_odoo_module_po.field_test_transifex_odoo_module_po_test_transifex_odoo_module_po_create_uid
+msgid "Created by"
+msgstr ""
+
+#. module: test_transifex_odoo_module_po
+#: model:ir.model.fields,field_description:test_transifex_odoo_module_po.field_test_transifex_odoo_module_po_test_transifex_odoo_module_po_create_date
+msgid "Created on"
+msgstr ""
+
+#. module: test_transifex_odoo_module_po
+#: model:ir.model.fields,field_description:test_transifex_odoo_module_po.field_test_transifex_odoo_module_po_test_transifex_odoo_module_po_description
+msgid "Description"
+msgstr ""
+
+#. module: test_transifex_odoo_module_po
+#: model:ir.model.fields,field_description:test_transifex_odoo_module_po.field_test_transifex_odoo_module_po_test_transifex_odoo_module_po_display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: test_transifex_odoo_module_po
+#: model:ir.model.fields,field_description:test_transifex_odoo_module_po.field_test_transifex_odoo_module_po_test_transifex_odoo_module_po_id
+msgid "ID"
+msgstr ""
+
+#. module: test_transifex_odoo_module_po
+#: model:ir.model.fields,field_description:test_transifex_odoo_module_po.field_test_transifex_odoo_module_po_test_transifex_odoo_module_po___last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: test_transifex_odoo_module_po
+#: model:ir.model.fields,field_description:test_transifex_odoo_module_po.field_test_transifex_odoo_module_po_test_transifex_odoo_module_po_write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: test_transifex_odoo_module_po
+#: model:ir.model.fields,field_description:test_transifex_odoo_module_po.field_test_transifex_odoo_module_po_test_transifex_odoo_module_po_write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: test_transifex_odoo_module_po
+#: model:ir.ui.menu,name:test_transifex_odoo_module_po.menu_1_list
+msgid "List"
+msgstr ""
+
+#. module: test_transifex_odoo_module_po
+#: model:ir.ui.menu,name:test_transifex_odoo_module_po.menu_1
+msgid "Menu 1"
+msgstr ""
+
+#. module: test_transifex_odoo_module_po
+#: model:ir.ui.menu,name:test_transifex_odoo_module_po.menu_2
+msgid "Menu 2"
+msgstr ""
+
+#. module: test_transifex_odoo_module_po
+#: model:ir.model.fields,field_description:test_transifex_odoo_module_po.field_test_transifex_odoo_module_po_test_transifex_odoo_module_po_name
+msgid "Name"
+msgstr ""
+
+#. module: test_transifex_odoo_module_po
+#: model:ir.ui.menu,name:test_transifex_odoo_module_po.test_transifex_odoo_module_po
+msgid "Server to list"
+msgstr ""
+
+#. module: test_transifex_odoo_module_po
+#: model:ir.model.fields,field_description:test_transifex_odoo_module_po.field_test_transifex_odoo_module_po_test_transifex_odoo_module_po_value
+msgid "Value"
+msgstr ""
+
+#. module: test_transifex_odoo_module_po
+#: model:ir.model.fields,field_description:test_transifex_odoo_module_po.field_test_transifex_odoo_module_po_test_transifex_odoo_module_po_value2
+msgid "Value2"
+msgstr ""
+
+#. module: test_transifex_odoo_module_po
+#: model:ir.ui.menu,name:test_transifex_odoo_module_po.menu_root
+msgid "test_transifex_odoo_module_po"
+msgstr ""
+
+#. module: test_transifex_odoo_module_po
+#: model:ir.actions.server,name:test_transifex_odoo_module_po.action_server
+msgid "test_transifex_odoo_module_po server"
+msgstr ""
+
+#. module: test_transifex_odoo_module_po
+#: model:ir.actions.act_window,name:test_transifex_odoo_module_po.action_window
+msgid "test_transifex_odoo_module_po window"
+msgstr ""
+
+#. module: test_transifex_odoo_module_po
+#: model:ir.model,name:test_transifex_odoo_module_po.model_test_transifex_odoo_module_po_test_transifex_odoo_module_po
+msgid "test_transifex_odoo_module_po.test_transifex_odoo_module_po"
+msgstr ""
+
