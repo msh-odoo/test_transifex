@@ -11,6 +11,7 @@
           <field name="name"/>
           <field name="value"/>
           <field name="value2"/>
+          <field name="amount"/>
         </tree>
       </field>
     </record>

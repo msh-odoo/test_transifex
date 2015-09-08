@@ -6,14 +6,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 9.0alpha1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-08 07:13+0000\n"
-"PO-Revision-Date: 2015-09-08 07:13+0000\n"
+"POT-Creation-Date: 2015-09-08 09:10+0000\n"
+"PO-Revision-Date: 2015-09-08 09:10+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
+
+#. module: test_transifex_odoo_module_po
+#: model:ir.model.fields,field_description:test_transifex_odoo_module_po.field_test_transifex_odoo_module_po_test_transifex_odoo_module_po_amount
+msgid "Amount"
+msgstr ""
 
 #. module: test_transifex_odoo_module_po
 #: model:ir.model.fields,field_description:test_transifex_odoo_module_po.field_test_transifex_odoo_module_po_test_transifex_odoo_module_po_create_uid

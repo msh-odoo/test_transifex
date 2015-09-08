@@ -9,6 +9,7 @@ class test_transifex_odoo_module_po(models.Model):
     value = fields.Integer()
     value2 = fields.Float(compute="_value_pc", store=True)
     description = fields.Text()
+    amount = fields.Float(string="Amount")
 
     @api.depends('value')
     def _value_pc(self):
